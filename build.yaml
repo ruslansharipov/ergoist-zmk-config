@@ -1,5 +1,5 @@
 include:
   - board: seeeduino_xiao_ble
-    shield: corne_left
+    shield: crnx_left
   - board: seeeduino_xiao_ble
-    shield: corne_right
+    shield: crnx_right
