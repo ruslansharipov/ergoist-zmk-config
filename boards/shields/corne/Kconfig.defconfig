@@ -1,7 +1,7 @@
 if SHIELD_CRNX_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "ru_crnx"
+    default "Corne-X"
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
