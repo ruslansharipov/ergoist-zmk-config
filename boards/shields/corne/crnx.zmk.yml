@@ -1,11 +1,11 @@
 file_format: "1"
-id: corne
-name: Corne
+id: crnx
+name: Crnx
 type: shield
 url: https://github.com/ruslansharipov/crn-x-kbd
 requires: [xiao]
 features:
   - keys
 siblings:
-  - corne_left
-  - corne_right
+  - crnx_left
+  - crnx_right
