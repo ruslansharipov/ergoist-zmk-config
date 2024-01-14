@@ -2,7 +2,7 @@ file_format: "1"
 id: ergoist
 name: Ergoist
 type: shield
-url: https://github.com/ruslansharipov/crn-x-kbd
+url: https://github.com/ruslansharipov/ergoist
 requires: [xiao]
 features:
   - keys
