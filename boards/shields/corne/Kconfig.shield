@@ -1,5 +1,0 @@
-config SHIELD_CRNX_LEFT
-    def_bool $(shields_list_contains,crnx_left)
-
-config SHIELD_CRNX_RIGHT
-    def_bool $(shields_list_contains,crnx_right)

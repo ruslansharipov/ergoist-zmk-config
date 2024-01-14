@@ -1,11 +1,11 @@
 file_format: "1"
-id: crnx
-name: Crnx
+id: ergoist
+name: Ergoist
 type: shield
 url: https://github.com/ruslansharipov/crn-x-kbd
 requires: [xiao]
 features:
   - keys
 siblings:
-  - crnx_left
-  - crnx_right
+  - ergoist_left
+  - ergoist_right
