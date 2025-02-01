@@ -69,20 +69,6 @@
             quick-tap-ms = <125>;
             flavor = "balanced";
         };
-
-        page_down_double_tab: page_down_double_tab {
-            compatible = "zmk,behavior-tap-dance";
-            label = "PAGE_DOWN_DOUBLE_TAB";
-            #binding-cells = <0>;
-            bindings = <&kp DOWN>, <&kp PAGE_DOWN>;
-        };
-
-        page_up_double_tap: page_up_double_tap {
-            compatible = "zmk,behavior-tap-dance";
-            label = "PAGE_UP_DOUBLE_TAP";
-            #binding-cells = <0>;
-            bindings = <&kp UP_ARROW>, <&kp PAGE_UP>;
-        };
     };
 
     keymap {
